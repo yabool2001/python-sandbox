@@ -7,7 +7,7 @@ import time
 import azure_iot_hub_mzemlopl as aih
 #import azure_iot_hub_kielbex as aih
 
-simulation_duration = 30
+simulation_duration = 60
 message_period = 3
 
 def my_main ():
