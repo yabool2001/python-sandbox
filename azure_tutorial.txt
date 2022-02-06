@@ -1,0 +1,13 @@
+Configure IoT HUB
+Configure Device
+Configure Routing
+    https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-create-through-portal
+Configure Cosmos DB
+Configure Event Hub (with Event Hub Namsespace name)
+
+Stopped na query configuration - CHECK IF JOB IS STARTED AND RUNNING
+https://www.youtube.com/watch?v=HlS_L-mwgDM
+
+RZECZYWIŚCIE JOB NIE BYŁ WYSTARTOWANY
+
+Pochwalić gościa za film o funkcjach dla początkujących
